@@ -1,0 +1,20 @@
+{
+"URL" 	      : "https://www.ultimatix.net/",
+"UserName"    : "1643388",
+"Password"    : "Lips@1035"
+}
+
+
+
+//td[@class='mouseOut'][2]
+
+#email
+
+//input[@name='password']
+
+//input[@name='confirmPassword']
+
+
+//input[@name='register']
+
+/root/SeleniumAdv/JsonDriven/Registration.json

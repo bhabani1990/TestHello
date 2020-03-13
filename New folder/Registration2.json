@@ -1,0 +1,11 @@
+{
+"URL" 	      : "http://newtours.demoaut.com/",
+"UserName"    : "Bhabani1995",
+"Password"    : "Lips@1035",
+"Confirm Password":"Lips@1035"
+
+}
+
+
+sudo tar xvjf phantomjs-2.1.1-linux-x86_64.tar.bz2 -C  /root/SeleniumAdv/
+
